@@ -6,38 +6,38 @@
 
 ## About Me
 
-**Full Name:** <!-- e.g. Jane Smith -->
+**Full Name:** Anthanasia Moncrief
 
-**GitHub Username:** <!-- e.g. jsmith42 -->
+**GitHub Username:** Nasia-dev
 
-**What should I call you in class?** <!-- Preferred name or nickname -->
+**What should I call you in class?** Nasia
 
 ---
 
 ## My Background
 
 **Have you taken a networking or server course before?**
-<!-- Yes / No — if yes, which one? -->
+Yes I took CIS151 with Mr. Isabella. It was my first computer class unless you count PowerPoint 14 years ago.
 
 **Any experience with Linux, Windows Server, or virtual machines?**
-<!-- A sentence is fine — "none at all" is a perfectly good answer -->
+Yes, I have taken a linux class and most of my CIS classes required VM's
 
 **What is one thing you want to be able to do by the end of this course?**
-<!-- One sentence -->
+One thing I want to be able to do by the end of this class is to have enough knowledge and understanding to pass a CompTIA Network+ exam
 
 ---
 
 ## My Setup
 
 **What OS does your personal computer run?**
-<!-- Windows / Mac / Linux / I use a lab computer -->
+Windows
 
 **Have you used Git or GitHub before this class?**
-<!-- Yes / No / A little bit -->
+yes, I used GitHub in a previous class and used Termux with a command line to submit an assignment, But I am still learning GitHub.
 
 ---
 
 ## Fun Fact
 
 **One non-tech thing about yourself:**
-<!-- Hobby, sport, where you are from, favorite food — anything! -->
+I enjoy finding old things people do not want anymore, and bringing it back to life. Quality is rare to find new these days.
